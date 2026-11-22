@@ -282,13 +282,6 @@ Through this project, I explored:
 - Top-K predictions and label decoding.
 - Practical applications of pre-trained Computer Vision models.
 
-## 👨‍💻 Author
-
-**Mani Ratan**
-
-- GitHub: [@mani787060](https://github.com/mani787060)
-- LinkedIn: [Mani Ratan](https://www.linkedin.com/in/mani-ratan-159963289/)
-- Kaggle: [@mani787060](https://www.kaggle.com/mani787060)
 
 This repository is part of my continuous learning journey in Deep Learning, Computer Vision, and Artificial Intelligence.
 
